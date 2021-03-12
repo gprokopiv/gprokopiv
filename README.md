@@ -3,5 +3,5 @@ I'm Halyna Prokopiv :runner:
 
 - 🔭 I’m constantly working on improving my tech skills and self-being))))
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on proactive and intresting company
+- 👯 I’m looking to collaborate on proactive and interesting company
 - 📫 How to reach me: halyna.kotlyar@gmail.com
